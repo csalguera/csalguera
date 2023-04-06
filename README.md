@@ -4,8 +4,8 @@
 
 * [About](https://github.com/csalguera#about)
 * [Skills](https://github.com/csalguera#skills)
-* [Stats](https://github.com/csalguera#stats)
 * [Projects](https://github.com/csalguera#projects)
+* [Stats](https://github.com/csalguera#stats)
 * [Contact](https://github.com/csalguera#contact-information)
 
 #
@@ -132,17 +132,17 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
 
 #
 
+### Projects
+
+[![log-go-front-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=synthwave)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=synthwave)](https://github.com/csalguera/log-go-back-end) [![garner](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=synthwave)](https://github.com/csalguera/garner) [![connect-four](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=synthwave)](https://github.com/csalguera/connect-four)
+
+#
+
 ### Stats
 
 [![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=csalguera&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/csalguera/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csalguera&langs_count=10&layout=compact&count_private=true&theme=synthwave)](https://github.com/csalguera/github-readme-stats)
-
-#
-
-### Projects
-
-[![log-go-front-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=synthwave)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=synthwave)](https://github.com/csalguera/log-go-back-end) [![garner](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=synthwave)](https://github.com/csalguera/garner) [![connect-four](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=synthwave)](https://github.com/csalguera/connect-four)
 
 #
 
