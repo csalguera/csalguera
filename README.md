@@ -75,20 +75,20 @@
     </th>
   </tr>
   <tr>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
     </td>
   </tr>
   <tr>
-    <td style="text-align:center" width="100px">React</td>
-    <td style="text-align:center" width="100px">Node</td>
-    <td style="text-align:center" width="100px">Express</td>
+    <td align="center" width="100px">React</td>
+    <td align="center" width="100px">Node</td>
+    <td align="center" width="100px">Express</td>
   </tr>
 </table>
 
@@ -98,12 +98,12 @@
 
 <table>
   <tr>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
     </td>
   </tr>
   <tr>
-    <td style="text-align:center" width="100px">Java</td>
+    <td align="center" width="100px">Java</td>
   </tr>
 </table>
 
