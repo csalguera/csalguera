@@ -9,7 +9,7 @@
     </th>
   </tr>
   <tr>
-    <td style="text-align:center">
+    <td style="text-align:center" align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
     </td>
     <td style="text-align:center">
