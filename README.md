@@ -1,15 +1,5 @@
 # Carlos Salguera
 
-### Contents
-
-* [Stats](https://github.com/csalguera#stats)
-* [About](https://github.com/csalguera#about)
-* [Skills](https://github.com/csalguera#skills)
-* [Contact](https://github.com/csalguera#contact-information)
-* [Projects](https://github.com/csalguera#projects)
-
-#
-
 ### Stats
 
 [![Carlos' GitHub stats](https://forked-github-readme-stats-67of.vercel.app/api?username=csalguera&hide=stars,issues&card_width=500&count_private=true&show_icons=true&theme=github_dark)](https://github.com/csalguera/github-readme-stats)
