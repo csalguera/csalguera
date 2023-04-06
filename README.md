@@ -2,24 +2,87 @@
 
 ### Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://i.imgur.com/qfArKK8.png" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" style="padding-right:10px" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" style="padding-right:10px" />
+<table>
+  <tr>
+    <th colspan="5" style="text-align:center">
+      Languages
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center" width="100px">JavaScript</td>
+    <td style="text-align:center" width="100px">TypeScript</td>
+    <td style="text-align:center" width="100px">HTML</td>
+    <td style="text-align:center" width="100px">CSS</td>
+    <td style="text-align:center" width="100px">Bash</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://i.imgur.com/qfArKK8.png" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center" width="100px">React</td>
+    <td style="text-align:center" width="100px">Node</td>
+    <td style="text-align:center" width="100px">Express</td>
+    <td style="text-align:center" width="100px">MongoDB</td>
+    <td style="text-align:center" width="100px">Mongoose</td>
+    <td style="text-align:center" width="100px">PostgreSQL</td>
+    <td style="text-align:center" width="100px">Sequelize</td>
+  </tr>
+</table>
 
 #
 
 ### Acquiring
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
+<table>
+  <tr>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center" width="100px">Java</td>
+  </tr>
+</table>
 
 #
 
