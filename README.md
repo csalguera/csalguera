@@ -108,15 +108,15 @@
 
 <div>
   <img src="https://i.imgur.com/66I52fG.png" align="center" width="30px"/>
-  <a href="mailto:carlos.e.salguera@gmail.com" align="center" style="margin-left: 8px; color: #6ad5a8;">Email</a>
+  <a href="mailto:carlos.e.salguera@gmail.com" align="center" style="margin-left: 16px">Email</a>
 </div>
 
 <div>
   <img src="https://i.imgur.com/59N1LTh.png" align="center" width="30px"/>
-  <a href="https://www.linkedin.com/in/carlos-salguera/" align="center" style="margin-left: 8px; color: #6ad5a8;">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/carlos-salguera/" align="center" style="margin-left: 16px">LinkedIn</a>
 </div>
 
 <div>
   <img src="https://i.imgur.com/OgNiXXo.png" align="center" width="30px"/>
-  <a href="https://csalguera-portfolio.netlify.app/" align="center" style="margin-left: 8px; color: #6ad5a8;">Portfolio</a>
+  <a href="https://csalguera-portfolio.netlify.app/" align="center" style="margin-left: 16px">Portfolio</a>
 </div>
