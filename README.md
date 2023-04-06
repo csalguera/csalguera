@@ -10,11 +10,20 @@ Experienced in TypeScript, JavaScript, React, Node, Express, MongoDB, PostgreSQL
 
 ## Contact Information
 
-[Email](mailto:carlos.e.salguera@gmail.com)
+<div style="display: flex; align-items: center;">
+  <img src="https://i.imgur.com/66I52fG.png" width="30px"/>
+  <a href="mailto:carlos.e.salguera@gmail.com" style="margin-left: 8px;">Email</a>
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/carlos-salguera/)
+<div style="display: flex; align-items: center;">
+  <img src="https://i.imgur.com/59N1LTh.png" width="30px"/>
+  <a href="https://www.linkedin.com/in/carlos-salguera/" style="margin-left: 8px;">LinkedIn</a>
+</div>
 
-[Portfolio](https://csalguera-portfolio.netlify.app/)
+<div style="display: flex; align-items: center;">
+  <img src="https://i.imgur.com/OgNiXXo.png" width="30px"/>
+  <a href="https://csalguera-portfolio.netlify.app/" style="margin-left: 8px;">LinkedIn</a>
+</div>
 
 ## Skills
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/>
