@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <th colspan="5" style="text-align:center">
+    <th colspan="6" style="text-align:center">
       Languages
     </th>
   </tr>
@@ -24,6 +24,9 @@
     <td style="text-align:center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/>
     </td>
+    <td style="text-align:center">
+      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="50px"/>
+    </td>
   </tr>
   <tr>
     <td style="text-align:center" width="100px">JavaScript</td>
@@ -31,6 +34,7 @@
     <td style="text-align:center" width="100px">HTML</td>
     <td style="text-align:center" width="100px">CSS</td>
     <td style="text-align:center" width="100px">Bash</td>
+    <td style="text-align:center" width="100px">EJS</td>
   </tr>
 </table>
 
