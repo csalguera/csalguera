@@ -2,11 +2,11 @@
 
 ### Contents
 
-* About
-* Skills
-* Stats
-* Projects
-* Contact Information
+* [About](https://github.com/csalguera#about)
+* [Skills](https://github.com/csalguera#skills)
+* [Stats](https://github.com/csalguera#stats)
+* [Projects](https://github.com/csalguera#projects)
+* [Contact Information](https://github.com/csalguera#contact-information)
 
 #
 
