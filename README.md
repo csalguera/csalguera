@@ -112,11 +112,11 @@
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/59N1LTh.png" width="30px"/>
-  <a href="https://www.linkedin.com/in/carlos-salguera/" style="margin-left: 8px; color: #6ad5a8;">LinkedIn</a>
+  <img src="https://i.imgur.com/59N1LTh.png" align="center" width="30px"/>
+  <a href="https://www.linkedin.com/in/carlos-salguera/" align="center" style="margin-left: 8px; color: #6ad5a8;">LinkedIn</a>
 </div>
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/OgNiXXo.png" width="30px"/>
-  <a href="https://csalguera-portfolio.netlify.app/" style="margin-left: 8px; color: #6ad5a8;">Portfolio</a>
+  <img src="https://i.imgur.com/OgNiXXo.png" align="center" width="30px"/>
+  <a href="https://csalguera-portfolio.netlify.app/" align="center" style="margin-left: 8px; color: #6ad5a8;">Portfolio</a>
 </div>
