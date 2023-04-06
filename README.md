@@ -107,8 +107,8 @@
 ### Contact Information
 
 <div style="display: flex; align-items: center;">
-  <img src="https://i.imgur.com/66I52fG.png" width="30px"/>
-  <a href="mailto:carlos.e.salguera@gmail.com" style="margin-left: 8px; color: #6ad5a8;">Email</a>
+  <img src="https://i.imgur.com/66I52fG.png" align="center" width="30px"/>
+  <a href="mailto:carlos.e.salguera@gmail.com" align="center" style="margin-left: 8px; color: #6ad5a8;">Email</a>
 </div>
 
 <div style="display: flex; align-items: center;">
