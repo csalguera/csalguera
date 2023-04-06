@@ -110,18 +110,23 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
   </tr>
 </table>
 
-#
-
-### Acquiring
-
 <table>
+  <tr>
+    <th colspan="2" style="text-align:center">
+      In Progress
+    </th>
+  </tr>
   <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
+    </td>
   </tr>
   <tr>
     <td align="center" width="100px">Java</td>
+    <td align="center" width="100px">Spring</td>
   </tr>
 </table>
 
