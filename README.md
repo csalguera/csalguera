@@ -9,32 +9,32 @@
     </th>
   </tr>
   <tr>
-    <td style="text-align:center" align="center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="50px"/>
     </td>
   </tr>
   <tr>
-    <td style="text-align:center" width="100px">JavaScript</td>
-    <td style="text-align:center" width="100px">TypeScript</td>
-    <td style="text-align:center" width="100px">HTML</td>
-    <td style="text-align:center" width="100px">CSS</td>
-    <td style="text-align:center" width="100px">Bash</td>
-    <td style="text-align:center" width="100px">EJS</td>
+    <td align="center" width="100px">JavaScript</td>
+    <td align="center" width="100px">TypeScript</td>
+    <td align="center" width="100px">HTML</td>
+    <td align="center" width="100px">CSS</td>
+    <td align="center" width="100px">Bash</td>
+    <td align="center" width="100px">EJS</td>
   </tr>
 </table>
 
@@ -47,24 +47,24 @@
     <th colspan="2" style="text-align:center">SQL</th>
   </tr>
   <tr>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://i.imgur.com/qfArKK8.png" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/>
     </td>
-    <td style="text-align:center">
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="50px"/>
     </td>
   </tr>
   <tr>
-    <td style="text-align:center" width="100px">MongoDB</td>
-    <td style="text-align:center" width="100px">Mongoose</td>
-    <td style="text-align:center" width="100px">PostgreSQL</td>
-    <td style="text-align:center" width="100px">Sequelize</td>
+    <td align="center" width="100px">MongoDB</td>
+    <td align="center" width="100px">Mongoose</td>
+    <td align="center" width="100px">PostgreSQL</td>
+    <td align="center" width="100px">Sequelize</td>
   </tr>
 </table>
 
