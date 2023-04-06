@@ -6,7 +6,7 @@
 * [Skills](https://github.com/csalguera#skills)
 * [Stats](https://github.com/csalguera#stats)
 * [Projects](https://github.com/csalguera#projects)
-* [Contact Information](https://github.com/csalguera#contact-information)
+* [Contact](https://github.com/csalguera#contact-information)
 
 #
 
@@ -141,7 +141,7 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
 
 #
 
-### Contact Information
+### Contact
 
 <table>
   <tr>
