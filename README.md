@@ -1,6 +1,6 @@
 # Carlos Salguera
 
-## Skills
+### Skills
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" align="left" style="padding-right:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" align="left" style="padding-right:10px" />
@@ -14,21 +14,31 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" align="left" style="padding-right:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" align="left" style="padding-right:10px" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" align="left" style="padding-right:10px" />
+<br />
 
-## Acquiring
+#
+
+### Acquiring
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50px"/>
 
-## Stats
+#
+
+### Stats
 
 [![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=csalguera&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/csalguera/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csalguera&langs_count=10&layout=compact&count_private=true&theme=synthwave)](https://github.com/csalguera/github-readme-stats)
 
-## Projects
+#
+
+### Projects
 
 [![log-go-front-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=synthwave)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=synthwave)](https://github.com/csalguera/log-go-back-end) [![garner](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=synthwave)](https://github.com/csalguera/garner) [![connect-four](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=synthwave)](https://github.com/csalguera/connect-four)
 
-## Contact Information
+#
+
+### Contact Information
 
 <div style="display: flex; align-items: center;">
   <img src="https://i.imgur.com/66I52fG.png" width="30px"/>
