@@ -125,17 +125,27 @@
 
 ### Contact Information
 
-<div>
-  <img src="https://i.imgur.com/66I52fG.png" align="center" width="30px"/>
-  <a href="mailto:carlos.e.salguera@gmail.com" align="center">Email</a>
-</div>
-
-<div>
-  <img src="https://i.imgur.com/59N1LTh.png" align="center" width="30px"/>
-  <a href="https://www.linkedin.com/in/carlos-salguera/" align="center">LinkedIn</a>
-</div>
-
-<div>
-  <img src="https://i.imgur.com/OgNiXXo.png" align="center" width="30px"/>
-  <a href="https://csalguera-portfolio.netlify.app/" align="center">Portfolio</a>
-</div>
+<table>
+  <tr>
+    <td align="center" width="100px">
+      <img src="https://i.imgur.com/66I52fG.png" width="30px"/>
+    </th>
+    <td align="center" width="100px">
+      <img src="https://i.imgur.com/59N1LTh.png" width="30px"/>
+    </th>
+    <td align="center" width="100px">
+      <img src="https://i.imgur.com/OgNiXXo.png" width="30px"/>
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="100px">
+      <a href="mailto:carlos.e.salguera@gmail.com">Email</a>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.linkedin.com/in/carlos-salguera/">LinkedIn</a>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://csalguera-portfolio.netlify.app/">Portfolio</a>
+    </td>
+  </tr>
+</table>
