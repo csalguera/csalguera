@@ -8,6 +8,8 @@ Experienced in TypeScript, JavaScript, React, Node, Express, MongoDB, PostgreSQL
 
 ## Projects
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=synthwave)](https://github.com/csalguera/log-go-front-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=synthwave)](https://github.com/csalguera/log-go-back-end) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=synthwave)](https://github.com/csalguera/garner) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=synthwave)](https://github.com/csalguera/connect-four)
+
 ## Contact Information
 
 <div style="display: flex; align-items: center;">
