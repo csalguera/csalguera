@@ -132,6 +132,42 @@ View my progress and documentation of the exercises I have completed so far:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <th colspan="6" style="text-align:center">
+      Bucket List
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"  width="50px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100px">AWS</td>
+    <td align="center" width="100px">MUI</td>
+    <td align="center" width="100px">Python</td>
+    <td align="center" width="100px">Next</td>
+    <td align="center" width="100px">Vue</td>
+    <td align="center" width="100px">Angular</td>
+  </tr>
+</table>
+
 #
 
 ### Projects
