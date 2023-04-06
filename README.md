@@ -159,6 +159,9 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
     <td align="center" width="100px">
       <img src="https://i.imgur.com/fbMEgGo.png" width="30px"/>
     </th>
+    <td align="center" width="100px">
+      <img src="https://i.imgur.com/OjqYD8G.png" width="30px"/>
+    </th>
   </tr>
   <tr>
     <td align="center" width="100px">
@@ -169,6 +172,9 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
     </td>
     <td align="center" width="100px">
       <a href="https://csalguera-portfolio.netlify.app/">Portfolio</a>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://github.com/csalguera">GitHub ?</a>
     </td>
   </tr>
 </table>
