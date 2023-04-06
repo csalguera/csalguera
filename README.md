@@ -3,8 +3,8 @@
 ### Contents
 
 * [About](https://github.com/csalguera#about)
-* [Skills](https://github.com/csalguera#skills)
 * [Projects](https://github.com/csalguera#projects)
+* [Skills](https://github.com/csalguera#skills)
 * [Stats](https://github.com/csalguera#stats)
 * [Contact](https://github.com/csalguera#contact-information)
 
@@ -17,6 +17,12 @@ Full Stack Developer with a focus on TypeScript, JavaScript, and the MERN and PE
 View my progress and documentation of the exercises I have completed so far:
 
 [![my-first-java-project](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=my-first-java-app&theme=github_dark)](https://github.com/csalguera/my-first-java-app) [![java-variables](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=java-variables&theme=github_dark)](https://github.com/csalguera/java-variables)
+
+#
+
+### Projects
+
+[![log-go-front-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=github_dark)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=github_dark)](https://github.com/csalguera/log-go-back-end) [![garner](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=github_dark)](https://github.com/csalguera/garner) [![connect-four](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=github_dark)](https://github.com/csalguera/connect-four)
 
 #
 
@@ -167,12 +173,6 @@ View my progress and documentation of the exercises I have completed so far:
     <td align="center" width="100px">Angular</td>
   </tr>
 </table>
-
-#
-
-### Projects
-
-[![log-go-front-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=github_dark)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=github_dark)](https://github.com/csalguera/log-go-back-end) [![garner](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=github_dark)](https://github.com/csalguera/garner) [![connect-four](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=github_dark)](https://github.com/csalguera/connect-four)
 
 #
 
