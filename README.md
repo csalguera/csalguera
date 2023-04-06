@@ -14,7 +14,7 @@
 
 Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTML, and CSS. I am currently learning Java through [Codecademy](https://www.codecademy.com/learn). View my progress and documentation of the exercises I have completed:
 
-[![my-first-java-project](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=my-first-java-app&theme=synthwave)](https://github.com/csalguera/my-first-java-app) [![java-variables](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=java-variables&theme=synthwave)](https://github.com/csalguera/java-variables)
+[![my-first-java-project](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=my-first-java-app&theme=github_dark)](https://github.com/csalguera/my-first-java-app) [![java-variables](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=java-variables&theme=github_dark)](https://github.com/csalguera/java-variables)
 
 #
 
@@ -134,15 +134,15 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
 
 ### Projects
 
-[![log-go-front-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=synthwave)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=synthwave)](https://github.com/csalguera/log-go-back-end) [![garner](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=synthwave)](https://github.com/csalguera/garner) [![connect-four](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=synthwave)](https://github.com/csalguera/connect-four)
+[![log-go-front-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=github_dark)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=github_dark)](https://github.com/csalguera/log-go-back-end) [![garner](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=github_dark)](https://github.com/csalguera/garner) [![connect-four](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=github_dark)](https://github.com/csalguera/connect-four)
 
 #
 
 ### Stats
 
-[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=csalguera&hide=stars,issues&count_private=true&show_icons=true&theme=synthwave)](https://github.com/csalguera/github-readme-stats)
+[![Carlos' GitHub stats](https://github-readme-stats.vercel.app/api?username=csalguera&hide=stars,issues&count_private=true&show_icons=true&theme=github_dark)](https://github.com/csalguera/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csalguera&langs_count=10&layout=compact&count_private=true&theme=synthwave)](https://github.com/csalguera/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csalguera&langs_count=10&layout=compact&count_private=true&theme=github_dark)](https://github.com/csalguera/github-readme-stats)
 
 #
 
