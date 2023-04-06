@@ -1,5 +1,23 @@
 # Carlos Salguera
 
+### Contents
+
+* About
+* Skills
+* Stats
+* Projects
+* Contact Information
+
+#
+
+### About
+
+Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTML, and CSS. I am currently learning Java through [Codecademy](https://www.codecademy.com/learn). View my progress and documentation of the exercises I have completed:
+
+[![my-first-java-project](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=my-first-java-app&theme=synthwave)](https://github.com/csalguera/my-first-java-app) [![java-variables](https://github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=java-variables&theme=synthwave)](https://github.com/csalguera/java-variables)
+
+#
+
 ### Skills
 
 <table>
