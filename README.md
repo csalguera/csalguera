@@ -150,7 +150,7 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
 
 <table>
   <tr>
-    <th colspan="3" style="text-align:center">
+    <th colspan="4" style="text-align:center">
       Socials
     </th>
   </tr>
@@ -162,6 +162,9 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
       <img src="https://i.imgur.com/hqPOxrU.png" width="30px"/>
     </td>
     <td align="center" width="100px">
+      <img src="https://i.imgur.com/8H5yoA4.png" width="30px"/>
+    </td>
+    <td align="center" width="100px">
       <img src="https://i.imgur.com/OjqYD8G.png" width="30px"/>
     </td>
   </tr>
@@ -171,6 +174,9 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
     </td>
     <td align="center" width="100px">
       <a href="https://www.linkedin.com/in/carlos-salguera/">LinkedIn</a>
+    </td>
+    <td align="center" width="100px">
+      <a href="https://www.codewars.com/users/csalguera">Codewars</a>
     </td>
     <td align="center" width="100px">
       <a href="https://github.com/csalguera">GitHub</a>
