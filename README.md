@@ -40,15 +40,13 @@
 
 <table>
   <tr>
-    <td style="text-align:center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
-    </td>
-    <td style="text-align:center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
-    </td>
-    <td style="text-align:center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
-    </td>
+    <th colspan="4" style="text-align:center">Databases</th>
+  </tr>
+  <tr>
+    <th colspan="2" style="text-align:center">NoSQL</th>
+    <th colspan="2" style="text-align:center">SQL</th>
+  </tr>
+  <tr>
     <td style="text-align:center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50px"/>
     </td>
@@ -63,13 +61,34 @@
     </td>
   </tr>
   <tr>
-    <td style="text-align:center" width="100px">React</td>
-    <td style="text-align:center" width="100px">Node</td>
-    <td style="text-align:center" width="100px">Express</td>
     <td style="text-align:center" width="100px">MongoDB</td>
     <td style="text-align:center" width="100px">Mongoose</td>
     <td style="text-align:center" width="100px">PostgreSQL</td>
     <td style="text-align:center" width="100px">Sequelize</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="3" style="text-align:center">
+      Libraries and Frameworks
+    </th>
+  </tr>
+  <tr>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
+    </td>
+    <td style="text-align:center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align:center" width="100px">React</td>
+    <td style="text-align:center" width="100px">Node</td>
+    <td style="text-align:center" width="100px">Express</td>
   </tr>
 </table>
 
