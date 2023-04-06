@@ -151,13 +151,13 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
 <table>
   <tr>
     <td align="center" width="100px">
-      <img src="https://i.imgur.com/66I52fG.png" width="30px"/>
+      <img src="https://i.imgur.com/zP3ehwK.png" width="30px"/>
     </th>
     <td align="center" width="100px">
-      <img src="https://i.imgur.com/59N1LTh.png" width="30px"/>
+      <img src="https://i.imgur.com/hqPOxrU.png" width="30px"/>
     </th>
     <td align="center" width="100px">
-      <img src="https://i.imgur.com/OgNiXXo.png" width="30px"/>
+      <img src="https://i.imgur.com/fbMEgGo.png" width="30px"/>
     </th>
   </tr>
   <tr>
