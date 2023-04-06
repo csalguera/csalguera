@@ -150,18 +150,20 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
 
 <table>
   <tr>
+    <th colspan="3" style="text-align:center">
+      Socials
+    </th>
+  </tr>
+  <tr>
     <td align="center" width="100px">
       <img src="https://i.imgur.com/zP3ehwK.png" width="30px"/>
-    </th>
+    </td>
     <td align="center" width="100px">
       <img src="https://i.imgur.com/hqPOxrU.png" width="30px"/>
-    </th>
-    <td align="center" width="100px">
-      <img src="https://i.imgur.com/fbMEgGo.png" width="30px"/>
-    </th>
+    </td>
     <td align="center" width="100px">
       <img src="https://i.imgur.com/OjqYD8G.png" width="30px"/>
-    </th>
+    </td>
   </tr>
   <tr>
     <td align="center" width="100px">
@@ -171,10 +173,31 @@ Full Stack Developer with a focus on TypeScript, the MERN stack, PERN stack, HTM
       <a href="https://www.linkedin.com/in/carlos-salguera/">LinkedIn</a>
     </td>
     <td align="center" width="100px">
+      <a href="https://github.com/csalguera">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <th colspan="2" style="text-align:center">
+      Credentials
+    </th>
+  </tr>
+  <tr>
+    <td align="center" width="100px">
+      <img src="https://i.imgur.com/fbMEgGo.png" width="30px"/>
+    </td>
+    <td align="center" width="100px">
+      <img src="https://i.imgur.com/6OkTInH.png" width="30px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100px">
       <a href="https://csalguera-portfolio.netlify.app/">Portfolio</a>
     </td>
     <td align="center" width="100px">
-      <a href="https://github.com/csalguera">GitHub ?</a>
+      <a href="https://csalguera-portfolio.netlify.app/carlos-salguera-resume.pdf">Resume</a>
     </td>
   </tr>
 </table>
