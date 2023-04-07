@@ -115,7 +115,7 @@ View my progress and documentation of the exercises I have completed so far:
 
 <table>
   <tr>
-    <th colspan="3" style="text-align:center">
+    <th colspan="8" style="text-align:center">
       Other
     </th>
   </tr>
@@ -127,16 +127,33 @@ View my progress and documentation of the exercises I have completed so far:
       <img src="https://i.imgur.com/mNsmc8y.png" width="50px"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
-    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn-1.webcatalog.io/catalog/dotenv/dotenv-icon-filled-256.png" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/512/java-web-token.png" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://community.cdn.kony.com/sites/default/files/icon-google.png" width="50px"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="100px">Git</td>
     <td align="center" width="100px">GitHub</td>
-    <td align="center" width="100px">Azure</td>
     <td align="center" width="100px">VsCode</td>
+    <td align="center" width="100px">NPM</td>
+    <td align="center" width="100px">.env</td>
+    <td align="center" width="100px">Azure</td>
+    <td align="center" width="100px">JWT</td>
+    <td align="center" width="100px">OAuth</td>
   </tr>
 </table>
 
@@ -144,6 +161,9 @@ View my progress and documentation of the exercises I have completed so far:
   <tr>
     <th colspan="2" style="text-align:center">
       In Progress
+    </th>
+    <th colspan="6" style="text-align:center">
+      Bucket List
     </th>
   </tr>
   <tr>
@@ -153,20 +173,6 @@ View my progress and documentation of the exercises I have completed so far:
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
     </td>
-  </tr>
-  <tr>
-    <td align="center" width="100px">Java</td>
-    <td align="center" width="100px">Spring</td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <th colspan="6" style="text-align:center">
-      Bucket List
-    </th>
-  </tr>
-  <tr>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px"/>
     </td>
@@ -187,6 +193,8 @@ View my progress and documentation of the exercises I have completed so far:
     </td>
   </tr>
   <tr>
+    <td align="center" width="100px">Java</td>
+    <td align="center" width="100px">Spring</td>
     <td align="center" width="100px">AWS</td>
     <td align="center" width="100px">MUI</td>
     <td align="center" width="100px">Python</td>
