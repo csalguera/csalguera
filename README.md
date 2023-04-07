@@ -120,7 +120,7 @@ View my progress and documentation of the exercises I have completed so far:
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" style="background:white; border-radius:100px"/>
+      <img src="https://i.imgur.com/mNsmc8y.png" width="50px"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
