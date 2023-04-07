@@ -111,6 +111,30 @@ View my progress and documentation of the exercises I have completed so far:
 
 <table>
   <tr>
+    <th colspan="3" style="text-align:center">
+      Other
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50px" style="background:white; border-radius:100px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100px">Git</td>
+    <td align="center" width="100px">GitHub</td>
+    <td align="center" width="100px">VsCode</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <th colspan="2" style="text-align:center">
       In Progress
     </th>
