@@ -127,12 +127,15 @@ View my progress and documentation of the exercises I have completed so far:
       <img src="https://i.imgur.com/mNsmc8y.png" width="50px"/>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50px"/>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50px"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="100px">Git</td>
     <td align="center" width="100px">GitHub</td>
+    <td align="center" width="100px">Azure</td>
     <td align="center" width="100px">VsCode</td>
   </tr>
 </table>
