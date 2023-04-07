@@ -21,7 +21,7 @@ View my progress and documentation of the exercises I have completed so far:
 
 <table>
   <tr>
-    <th colspan="6" style="text-align:center">
+    <th colspan="7" style="text-align:center">
       Languages
     </th>
   </tr>
@@ -44,6 +44,9 @@ View my progress and documentation of the exercises I have completed so far:
     <td align="center">
       <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="50px"/>
     </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50px"/>
+    </td>
   </tr>
   <tr>
     <td align="center" width="100px">JavaScript</td>
@@ -52,6 +55,7 @@ View my progress and documentation of the exercises I have completed so far:
     <td align="center" width="100px">CSS</td>
     <td align="center" width="100px">Bash</td>
     <td align="center" width="100px">EJS</td>
+    <td align="center" width="100px">Markdown</td>
   </tr>
 </table>
 
