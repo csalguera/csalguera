@@ -11,9 +11,7 @@
 
 Full Stack Developer with a focus on TypeScript, JavaScript, and the MERN and PERN stacks. I am currently learning Java through [Codecademy](https://www.codecademy.com/learn).
 
-View my progress and documentation of the exercises I have completed so far:
-
-[![my-first-java-project](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=my-first-java-app&theme=github_dark)](https://github.com/csalguera/my-first-java-app) [![java-variables](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=java-variables&theme=github_dark)](https://github.com/csalguera/java-variables) [![manipulating-java-variables](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=java-manipulating-variables&theme=github_dark)](https://github.com/csalguera/java-manipulating-variables) [![java-intro-to-classes](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=java-intro-to-classes&theme=github_dark)](https://github.com/csalguera/java-intro-to-classes) [![java-methods](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=java-methods&theme=github_dark)](https://github.com/csalguera/java-methods) [![java-conditionals-and-control-flow](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=java-conditionals-and-control-flow&theme=github_dark)](https://github.com/csalguera/java-conditionals-and-control-flow)
+Track my public [remote repositories](https://github.com/csalguera?tab=repositories&q=&type=public&language=java&sort=).
 
 #
 
