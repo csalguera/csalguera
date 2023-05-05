@@ -89,7 +89,7 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
 
 <table>
   <tr>
-    <th colspan="3" style="text-align:center">
+    <th colspan="4" style="text-align:center">
       Libraries and Frameworks
     </th>
   </tr>
@@ -101,12 +101,16 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50px"/>
     </td>
     <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px"/>
+    </td>
+    <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50px"/>
     </td>
   </tr>
   <tr>
     <td align="center" width="100px">React</td>
     <td align="center" width="100px">Node</td>
+    <td align="center" width="100px">MUI</td>
     <td align="center" width="100px">Express</td>
   </tr>
 </table>
@@ -160,7 +164,7 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
     <th colspan="2" style="text-align:center">
       In Progress
     </th>
-    <th colspan="6" style="text-align:center">
+    <th colspan="5" style="text-align:center">
       Bucket List
     </th>
   </tr>
@@ -173,9 +177,6 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="50px"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px"/>
@@ -194,7 +195,6 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
     <td align="center" width="100px">Java</td>
     <td align="center" width="100px">Spring</td>
     <td align="center" width="100px">AWS</td>
-    <td align="center" width="100px">MUI</td>
     <td align="center" width="100px">Python</td>
     <td align="center" width="100px">Next</td>
     <td align="center" width="100px">Vue</td>
