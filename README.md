@@ -2,8 +2,8 @@
 
 ### Stats
 
-[![Carlos' GitHub stats](https://forked-github-readme-stats-67of.vercel.app/api?username=csalguera&hide=stars,issues&card_width=500&count_private=true&show_icons=true&theme=github_dark)](https://github.com/csalguera/github-readme-stats)
-[![Top Languages](https://forked-github-readme-stats-67of.vercel.app/api/top-langs/?username=csalguera&langs_count=10&card_width=500&layout=compact&theme=github_dark)](https://github.com/csalguera/github-readme-stats)
+[![Carlos' GitHub stats](https://csalguera-github-readme-stats.vercel.app/api?username=csalguera&hide=stars,issues&card_width=500&count_private=true&show_icons=true&theme=github_dark)](https://github.com/csalguera/github-readme-stats)
+[![Top Languages](https://csalguera-github-readme-stats.vercel.app/api/top-langs/?username=csalguera&langs_count=10&card_width=500&layout=compact&theme=github_dark)](https://github.com/csalguera/github-readme-stats)
 
 #
 
@@ -270,6 +270,6 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
 
 ### Projects
 
-[![log-go-front-end](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=github_dark)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=github_dark)](https://github.com/csalguera/log-go-back-end) [![garner](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=garner&theme=github_dark)](https://github.com/csalguera/garner) [![connect-four](https://forked-github-readme-stats-67of.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=github_dark)](https://github.com/csalguera/connect-four)
+[![log-go-front-end](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=github_dark)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=github_dark)](https://github.com/csalguera/log-go-back-end) [![garner](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=github_dark)](https://github.com/csalguera/garner) [![connect-four](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=github_dark)](https://github.com/csalguera/connect-four)
 
 #
