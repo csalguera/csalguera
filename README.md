@@ -9,9 +9,7 @@
 
 ### About
 
-Full Stack Developer with a focus on TypeScript, JavaScript, and the MERN and PERN stacks. I am currently learning Java through [Codecademy](https://www.codecademy.com/learn).
-
-Track my public [remote repositories](https://github.com/csalguera?tab=repositories&q=&type=public&language=java&sort=).
+College sophomore majoring in computer science. Experienced with developing applications utilizing TypeScript, JavaScript, React, Node, Express, MongoDB, PostgreSQL, Material UI, and Vite.
 
 #
 
@@ -19,7 +17,7 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
 
 <table>
   <tr>
-    <th colspan="7" style="text-align:center">
+    <th colspan="6" style="text-align:center">
       Languages
     </th>
   </tr>
@@ -37,13 +35,10 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/>
     </td>
     <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px"/>
     </td>
     <td align="center">
-      <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" width="50px"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="50px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"  width="50px"/>
     </td>
   </tr>
   <tr>
@@ -51,18 +46,17 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
     <td align="center" width="100px">TypeScript</td>
     <td align="center" width="100px">HTML</td>
     <td align="center" width="100px">CSS</td>
-    <td align="center" width="100px">Bash</td>
-    <td align="center" width="100px">EJS</td>
-    <td align="center" width="100px">Markdown</td>
+    <td align="center" width="100px">Python</td>
+    <td align="center" width="100px">C++</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th colspan="4" style="text-align:center">Databases</th>
+    <th colspan="5" style="text-align:center">Databases</th>
   </tr>
   <tr>
-    <th colspan="2" style="text-align:center">NoSQL</th>
+    <th colspan="3" style="text-align:center">NoSQL</th>
     <th colspan="2" style="text-align:center">SQL</th>
   </tr>
   <tr>
@@ -71,6 +65,9 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
     </td>
     <td align="center">
       <img src="https://i.imgur.com/qfArKK8.png" width="50px"/>
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50px"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50px"/>
@@ -82,6 +79,7 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
   <tr>
     <td align="center" width="100px">MongoDB</td>
     <td align="center" width="100px">Mongoose</td>
+    <td align="center" width="100px">AWS S3</td>
     <td align="center" width="100px">PostgreSQL</td>
     <td align="center" width="100px">Sequelize</td>
   </tr>
@@ -164,7 +162,7 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
     <th colspan="2" style="text-align:center">
       In Progress
     </th>
-    <th colspan="5" style="text-align:center">
+    <th colspan="3" style="text-align:center">
       Bucket List
     </th>
   </tr>
@@ -174,12 +172,6 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50px"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50px"/>
-    </td>
-    <td align="center">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  width="50px"/>
     </td>
     <td align="center">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50px"/>
@@ -194,8 +186,6 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
   <tr>
     <td align="center" width="100px">Java</td>
     <td align="center" width="100px">Spring</td>
-    <td align="center" width="100px">AWS</td>
-    <td align="center" width="100px">Python</td>
     <td align="center" width="100px">Next</td>
     <td align="center" width="100px">Vue</td>
     <td align="center" width="100px">Angular</td>
@@ -270,6 +260,6 @@ Track my public [remote repositories](https://github.com/csalguera?tab=repositor
 
 ### Projects
 
-[![log-go-front-end](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-front-end&theme=github_dark)](https://github.com/csalguera/log-go-front-end) [![log-go-back-end](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=log-go-back-end&theme=github_dark)](https://github.com/csalguera/log-go-back-end) [![garner](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=github_dark)](https://github.com/csalguera/garner) [![connect-four](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=github_dark)](https://github.com/csalguera/connect-four)
+[![pokedex-react](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=pokedex-react&theme=github_dark)](https://github.com/csalguera/pokedex-react) [![log-go-back-end](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=pokemon-cries&theme=github_dark)](https://github.com/csalguera/pokemon-cries) [![garner](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=garner&theme=github_dark)](https://github.com/csalguera/garner) [![connect-four](https://csalguera-github-readme-stats.vercel.app/api/pin/?username=csalguera&repo=connect-four&theme=github_dark)](https://github.com/csalguera/connect-four)
 
 #
