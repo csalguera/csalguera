@@ -115,7 +115,7 @@ College sophomore majoring in computer science. Experienced with developing appl
 
 <table>
   <tr>
-    <th colspan="8" style="text-align:center">
+    <th colspan="7" style="text-align:center">
       Other
     </th>
   </tr>
@@ -141,9 +141,6 @@ College sophomore majoring in computer science. Experienced with developing appl
     <td align="center">
       <img src="https://img.icons8.com/color/512/java-web-token.png" width="50px"/>
     </td>
-    <td align="center">
-      <img src="https://community.cdn.kony.com/sites/default/files/icon-google.png" width="50px"/>
-    </td>
   </tr>
   <tr>
     <td align="center" width="100px">Git</td>
@@ -153,16 +150,15 @@ College sophomore majoring in computer science. Experienced with developing appl
     <td align="center" width="100px">.env</td>
     <td align="center" width="100px">Azure</td>
     <td align="center" width="100px">JWT</td>
-    <td align="center" width="100px">OAuth</td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <th colspan="2" style="text-align:center">
+    <th colspan="1" style="text-align:center">
       In Progress
     </th>
-    <th colspan="3" style="text-align:center">
+    <th colspan="4" style="text-align:center">
       Bucket List
     </th>
   </tr>
